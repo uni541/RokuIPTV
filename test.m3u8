@@ -1,4 +1,9 @@
 #EXTM3U
-#EXT-X-VERSION:6
-#EXT-X-STREAM-INF:BANDWIDTH=3256000,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=720x576,CLOSED-CAPTIONS=NONE,FRAME-RATE=25.000
-streams/sessions/de2e419d4c6f41cfa3b0045efafec278/media/playlist-orig.m3u8/0.m3u8
+#EXTINF:-1 group-title="Entertainment",BBC ONE HD
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119051/2mmaroc/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",BBC TWO HD
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119051/2mmaroc/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",CBBC HD
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119051/2mmaroc/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",CBEEBIES HD
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119051/2mmaroc/playlist.m3u8
