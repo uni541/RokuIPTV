@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment",BBC ONE HD
+https://136044159.r.cdnsun.net/storychannel.m3u8
+#EXTINF:-1 group-title="Entertainment",BBC TWO HD
+https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",CBBC HD
+https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",CBEEBIES HD
+https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
+
